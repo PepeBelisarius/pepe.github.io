@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\Users\pepe\Documents\gittest\test1\test1\源.cpp(13,10): warning C4309: “初始化”: 截断常量值
+C:\Users\pepe\Documents\gittest\test1\test1\源.cpp(14,26): warning C4305: “初始化”: 从“__int64”到“unsigned int”截断
+C:\Users\pepe\Documents\gittest\test1\test1\源.cpp(14,16): warning C4309: “初始化”: 截断常量值
+  test1.vcxproj -> C:\Users\pepe\Documents\gittest\test1\x64\Debug\test1.exe

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1779. 找到最近的有相同 X 或 Y 坐标的点", "1779. 找到最近的有相同 X 或 Y 坐标的点\1779. 找到最近的有相同 X 或 Y 坐标的点.vcxproj", "{A397A422-D516-46A9-8B52-D5D651FE67E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A397A422-D516-46A9-8B52-D5D651FE67E8}.Debug|x64.ActiveCfg = Debug|x64
+		{A397A422-D516-46A9-8B52-D5D651FE67E8}.Debug|x64.Build.0 = Debug|x64
+		{A397A422-D516-46A9-8B52-D5D651FE67E8}.Debug|x86.ActiveCfg = Debug|Win32
+		{A397A422-D516-46A9-8B52-D5D651FE67E8}.Debug|x86.Build.0 = Debug|Win32
+		{A397A422-D516-46A9-8B52-D5D651FE67E8}.Release|x64.ActiveCfg = Release|x64
+		{A397A422-D516-46A9-8B52-D5D651FE67E8}.Release|x64.Build.0 = Release|x64
+		{A397A422-D516-46A9-8B52-D5D651FE67E8}.Release|x86.ActiveCfg = Release|Win32
+		{A397A422-D516-46A9-8B52-D5D651FE67E8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B67FB1DE-BE26-4BBA-830C-3ACDC169E951}
+	EndGlobalSection
+EndGlobal

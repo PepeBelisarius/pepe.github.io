@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a397a422-d516-46a9-8b52-d5d651fe67e8": {
+      "ProjectGuid": "a397a422-d516-46a9-8b52-d5d651fe67e8",
+      "DisplayName": "1779. 找到最近的有相同 X 或 Y 坐标的点",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

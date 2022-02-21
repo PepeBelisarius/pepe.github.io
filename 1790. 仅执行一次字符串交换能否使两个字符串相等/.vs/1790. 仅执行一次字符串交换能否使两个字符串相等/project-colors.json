@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7b7771c4-7be6-4557-a3ae-ff63d9dc620a": {
+      "ProjectGuid": "7b7771c4-7be6-4557-a3ae-ff63d9dc620a",
+      "DisplayName": "1790. 仅执行一次字符串交换能否使两个字符串相等",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

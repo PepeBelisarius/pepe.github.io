@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "430cbe81-e64d-428e-a9ac-82b9a470a51f": {
+      "ProjectGuid": "430cbe81-e64d-428e-a9ac-82b9a470a51f",
+      "DisplayName": "位运算test",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
