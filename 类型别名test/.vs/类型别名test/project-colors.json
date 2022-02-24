@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cfff42f0-056a-4730-a549-e89d6b1ed8b0": {
+      "ProjectGuid": "cfff42f0-056a-4730-a549-e89d6b1ed8b0",
+      "DisplayName": "类型别名test",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
